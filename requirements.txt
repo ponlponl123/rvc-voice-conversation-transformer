@@ -1,0 +1,7 @@
+torch==2.7.0
+numpy==2.2.6
+crepe==0.0.16
+torchaudio==2.7.0
+soundfile==0.12.1
+librosa==0.10.2.post1
+rvc
