@@ -1,4 +1,4 @@
-torch==2.7.0
+torch==2.13.0
 numpy==2.2.6
 crepe==0.0.16
 torchaudio==2.7.0
